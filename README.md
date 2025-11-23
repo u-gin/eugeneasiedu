@@ -1,14 +1,10 @@
 Hi 👋 My name is Eugene Asiedu
 ==============================
 
-Growing My Expertise in Modern DevOps as a Flutter Engineer.
+I combine mobile engineering experience with growing DevOps skills to build scalable, automated infrastructure and efficient CI/CD workflows.
 ------------------------------------------------------------
 
-I’m actively building my foundation in DevOps by studying cloud platforms like AWS and Azure, automation tools such as Terraform and Ansible, and container orchestration using Kubernetes.
-
-With a strong background as a Flutter engineer, I’m expanding beyond application development into the infrastructure, deployment, and automation side of technology.
-
-I apply everything I learn by creating mini DevOps and cloud engineering projects that showcase real-world infrastructure setups, deployments, and workflows. These projects complement my Flutter experience and serve as a portfolio of my continuous growth and experimentation across both app development and DevOps.
+I'm a Flutter engineer expanding into DevOps, focusing on cloud infrastructure, automation, and deployments. I enjoy building real-world mini projects that combine my mobile engineering background with DevOps practices across AWS, Kubernetes, Terraform, CI/CD, and monitoring tools.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [ugin.dev@gmail.com](mailto:ugin.dev@gmail.com)
